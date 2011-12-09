@@ -2,6 +2,7 @@
 require 'rubygems'
 require 'rake'
 require 'spec/rake/spectask'
+require 'rest-client'
 
 desc "Run unit tests"
 task :default => :spec

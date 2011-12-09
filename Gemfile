@@ -8,4 +8,5 @@ group :development do
   gem 'rspec', "~> 1.3"
   gem 'cucumber', "~> 0.8"
   gem 'flexmock', "~> 0.8"
+  gem 'rest-client'
 end
